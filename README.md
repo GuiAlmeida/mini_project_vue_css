@@ -1,4 +1,4 @@
-# Mini Projetc VUE/CSS
+# Mini Project VUE/CSS
 
 ## Project setup
 ```
