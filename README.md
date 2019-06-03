@@ -1,4 +1,4 @@
-# vue-app-evaluation
+# Mini Project VUE/CSS
 
 ## Project setup
 ```
